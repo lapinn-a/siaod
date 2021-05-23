@@ -1,7 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
-
 import java.io.*;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Main {
